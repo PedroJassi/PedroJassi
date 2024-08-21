@@ -1,6 +1,6 @@
 **Boas vindas ao meu perfil**
 
-Meu nome é Pedro Jassi
+>Meu nome é Pedro Jassi
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
